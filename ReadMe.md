@@ -157,3 +157,10 @@ asynchronously.**
 **Instead of using a serialization library , it has been simulated using
 splitstring function and a unique delimiter which doesn't usually occur
 ("\$\#\^").**
+
+
+**References**
+1.https://docs.microsoft.com/en-us/windows/desktop/ipc/named-pipes
+2.https://docs.microsoft.com/en-us/windows/desktop/ipc/synchronous-and-overlapped-input-and-output
+3.https://docs.microsoft.com/en-us/windows/desktop/ipc/named-pipe-server-using-overlapped-i-o
+4.https://docs.microsoft.com/en-us/windows/desktop/ipc/named-pipe-client
