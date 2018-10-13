@@ -1,6 +1,6 @@
-*StreamLabs Challenge*
+**StreamLabs Challenge**
 
-*Execution:*
+**Execution:**
 
 \[Build Path\]/\[debug/release\]/server.exe
 
@@ -9,7 +9,7 @@
 The exe files can also be found in the **binaries** folder of the
 project.
 
-*Project Explanation:*
+**Project Explanation:**
 
 **Utilities:**
 
@@ -80,6 +80,9 @@ the client. The keys to each map are integers.
 -   Map to store strings
 
 -   Map to store Custom Objects
+
+Each message is broken down at the server and the appriopriate reply is sent . 
+In this case , the client is responsible for choosing the key for each item being sent to the server. Another possible way of implementing this is to have the server generate a key for each item stored and reply back to the server with the key . 
 
 **Client:**
 
