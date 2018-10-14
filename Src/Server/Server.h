@@ -6,7 +6,7 @@
 //  3467,Peralta Blvd , Fremont , California - 94536.              //
 //  Akshay@syr.edu                                                 //
 //  Language:      Visual C++ 2008, SP1                            //
-//  Platform:      Dell Precision T7400, Vista Ultimate SP1        //
+//  Platform:      Dell Precision T7400, Windows 10 Ultimate       //
 //  Application:   Named Pipes Take home assignment for StreamLabs //
 /////////////////////////////////////////////////////////////////////
 /*
