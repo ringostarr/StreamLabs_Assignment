@@ -82,7 +82,7 @@ the client. The keys to each map are integers.
 -   Map to store Custom Objects
 
 Each message is broken down at the server and the appriopriate reply is sent . 
-In this case , the client is responsible for choosing the key for each item being sent to the server. Another possible way of implementing this is to have the server generate a key for each item stored and reply back to the server with the key . 
+In this case , the client is responsible for choosing the key for each item being sent to the server. Another possible way of implementing this is to have the server generate a key for each item stored and reply back to the client with the key . 
 
 **Client:**
 
